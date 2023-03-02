@@ -9,4 +9,4 @@
 
 Автор Родион Баянов
 
-[ссылка на проект](https://blacket1.github.io/how-to-learn-plus/)
+[ссылка на проект](https://blacket1.github.io/how-to-learn-plus/index.html)
